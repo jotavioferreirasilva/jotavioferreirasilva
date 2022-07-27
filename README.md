@@ -1,0 +1,2 @@
+- 🌱 I’m currently learning Go and the cloud environment (AWS)
+- 📫 How to reach me: https://www.linkedin.com/in/jotaviotfs/?locale=en_US
